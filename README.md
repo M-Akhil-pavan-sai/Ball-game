@@ -1,4 +1,4 @@
-#Ball-game
+Ball-game
 
 
 	This is a simple ball game in which players should hit the snowman,more the hitting more the points will be gained by the player.The Highest scored player will be the winner.This game is built using Python-Pygame module and other functions in that module.
